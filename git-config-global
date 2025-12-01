@@ -1,0 +1,9 @@
+[init]
+        templatedir = /home/cip0009eta@padi.intdev.cloud.bwi.intranet-bw.de/.git-template
+[user]
+        name = Thorsten Viehauser
+        email = thorsten.viehauser@bwi.de
+[credential]
+        helper = store
+[url "https://provgitlab.sgw.cloud.bwi.intranet-bw.de/"]
+        insteadOf = https://git.cldor.psa.cloud.bwi/
