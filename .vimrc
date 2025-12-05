@@ -2,7 +2,10 @@
 :set number relativenumber
 
 " color schema
-:colo industry
+:colo slate
+
+" syntax highlighting
+:syntax on
 
 " replace tabs by spaces
 :set expandtab
